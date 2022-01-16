@@ -1,0 +1,9 @@
+{
+  "prefix": "!",
+"TOKEN": "OTEwOTkwMTk3Mjg0NTY5MDg4.YZa3vA.jmC94AvYITbWaiGz3YhdjOMvfyk",
+"Mongo": "mongodb+srv://rootdatabase:rootuser@cluster0.j6m1a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "status":{
+    		"name": "Ewing35",
+    		"type": "watching"
+    	}
+}
